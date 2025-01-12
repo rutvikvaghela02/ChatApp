@@ -8,7 +8,7 @@ import authRoutes from './route/auth.router.js';
 import messageRoutes from './route/message.router.js';
 import userRoutes from './route/users.router.js';
 
-import connectToDB from './db/connectToDb.js';
+import connectToDB from './db/connectToDB.js';
 import { app, server } from './socket/socket.js';
 
 
