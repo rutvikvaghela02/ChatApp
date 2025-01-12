@@ -27,7 +27,7 @@
 
 
 import './index.css';
-import Login from './Pages/login/login';
+import Login from './Pages/Login/Login';
 import Signup from './Pages/signup/Signup';
 import Home from './Pages/home/Home';
 import { Toaster } from 'react-hot-toast';
